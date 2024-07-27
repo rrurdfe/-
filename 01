@@ -144,31 +144,6 @@ CCTV16-奥林匹克,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/322122589
 CCTV17-农业农村,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225708/index.m3u8
 
 卫视,#genre#
-亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-中國環球,http://live.cgtn.com/500/prog_index.m3u8
-华文一台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-华文六台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
-日本华语,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-欧洲华02,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-欧洲华06,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
-凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
-凤凰香港,http://113.117.74.29:8081/hls/38/index.m3u8
-凤凰香港,http://66.181.39.224/ml.php?id=hkphoenix_twn
-凤凰香港,http://113.117.74.12:8081/hls/38/index.m3u8
-凤凰卫视,http://113.64.145.93:8081/hls/37/index.m3u8
-凤凰资讯,http://113.64.145.93:8081/hls/36/index.m3u8
-凤凰香港,http://113.64.145.93:8081/hls/38/index.m3u8
-凤凰资讯,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
-凤凰资讯,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-凤凰卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
-凤凰卫视,http://5f11df.tv.netsite.cc/proxy/1650326537/1650326537.m3u8
-凤凰卫视,http://117.28.177.215:8605/rtp/239.61.2.183:9086
-凤凰卫视,http://64.140.167.170:8080/live/xsjgat2/hls.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
@@ -413,7 +388,6 @@ CCTV17-农业农村,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/322122570
 地下交通站,http://159.75.85.63:35455/huya/11342433?cdn=txcdn
 地下交通站,http://159.75.85.63:35455/huya/11342433?cdn=hscdn
 地下交通站,http://159.75.85.63:35455/huya/11342433?cdn=hwcdn
-铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
 封神榜86版,http://43.138.170.29:35455/yy/1353426319
 射雕英雄传83版,http://43.138.170.29:35455/yy/1354210357
 红楼梦87版,http://43.138.170.29:35455/yy/1382745084
@@ -470,6 +444,7 @@ CCTV17-农业农村,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/322122570
 倚天屠龙记吴启华版,http://159.75.85.63:35455/huya/23734246?cdn=hwcdn
 倚天屠龙记苏有朋版,http://live.iill.top/yy.php?id=1449856066
 包青天93,http://live.iill.top/yy.php?id=1356158015
+铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
 封神榜,http://live.iill.top/yy.php?id=1353426319
 神雕侠侣,http://live.iill.top/yy.php?id=1351762426
 鹿鼎记,http://live.iill.top/yy.php?id=28265277
