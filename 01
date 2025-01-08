@@ -426,24 +426,6 @@ CCTV17-农业农村,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/322122570
 铁齿铜牙纪晓岚,http://159.75.85.63:35455/huya/11342396?cdn=hwcdn
 铁齿铜牙纪晓岚, http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354143978
 铁齿铜牙纪晓岚,http://mmitv.top/pltv/huya.php?id=11342396
-
-电影,#genre#
-淘电影,http://114.252.239.133:9876/udp/239.3.1.250:8001
-淘电影,http://111.196.129.152:20000/udp/239.3.1.250:8001
-淘电影,http://221.219.79.161:4000/udp/239.3.1.250:8001
-淘电影,http://111.196.135.75:8686/udp/239.3.1.250:8001
-淘电影,http://123.122.162.7:19999/udp/239.3.1.250:8001
-周星驰,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
-周星驰,https://live.metshop.top/huya/11342412
-周星驰,http://1.94.31.214:35455/huya/11342412
-成龙,http://1.94.31.214:35455/huya/11342386
-王晶,http://1.94.31.214:35455/huya/11602058
-沈腾,http://1.94.31.214:35455/huya/11601968
-黄渤,http://1.94.31.214:35455/huya/11352876
-金鹰卡通,http://nas.hssvm.com:8888/udp/225.1.2.236:5002
-重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
-
-#电视剧轮播
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/延禧攻略.png" group-title="电视剧轮播",延禧攻略
 http://223.85.105.11/test-txdwk.flv.huya.com/src/1099531840940-1099531840940-86814878328684544-2199063805336-10057-A-0-1.m3u8
 #http://www.52sw.top:678/play/huya.php?id=26355864
@@ -529,7 +511,8 @@ http://jiaojirentv.top/2020/yy.php?id=1354930932
 http://jiaojirentv.top/2020/yy.php?id=1354490667
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧轮播", 家有儿女
 http://www.52sw.top:678/play/huya.php?id=30335591
-#埋堆堆
+
+
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆",楚汉骄雄
 http://www.52sw.top:678/play/huya.php?id=23740156
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆",封神榜
@@ -580,3 +563,20 @@ http://www.52sw.top:678/play/huya.php?id=23865161
 http://www.52sw.top:678/play/huya.php?id=23863796
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆",笑看风云
 http://www.52sw.top:678/play/huya.php?id=23865058
+
+电影,#genre#
+淘电影,http://114.252.239.133:9876/udp/239.3.1.250:8001
+淘电影,http://111.196.129.152:20000/udp/239.3.1.250:8001
+淘电影,http://221.219.79.161:4000/udp/239.3.1.250:8001
+淘电影,http://111.196.135.75:8686/udp/239.3.1.250:8001
+淘电影,http://123.122.162.7:19999/udp/239.3.1.250:8001
+周星驰,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
+周星驰,https://live.metshop.top/huya/11342412
+周星驰,http://1.94.31.214:35455/huya/11342412
+成龙,http://1.94.31.214:35455/huya/11342386
+王晶,http://1.94.31.214:35455/huya/11602058
+沈腾,http://1.94.31.214:35455/huya/11601968
+黄渤,http://1.94.31.214:35455/huya/11352876
+金鹰卡通,http://nas.hssvm.com:8888/udp/225.1.2.236:5002
+重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
+
