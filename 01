@@ -411,35 +411,89 @@ CCTV17-农业农村,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/322122570
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226006/index.m3u8
 黑龙江卫视,https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
 
-电视剧,#genre#
-亮剑,http://182.40.120.191/test-txdwk.flv.huya.com/src/1239543153972-1239543153972-11135015062081634304-2479086431400-10057-A-0-1.m3u8
-天龙八部,http://182.40.120.213/test-txdwk.flv.huya.com/src/1099531752675-1099531752675-86435783040303104-2199063628806-10057-A-0-1.m3u8
-新三国,http://223.85.105.11/test-txdwk.flv.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.m3u8
-新水浒传,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8
-铁齿铜牙纪晓岚，http://jiaojirentv.top/2020/yy.php?id=1354143978
-铁齿铜牙纪晓岚，https://live.metshop.top/huya/11342396
-铁齿铜牙纪晓岚，http://cfss.cc/cdn/hy/11342396.flv
-铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
-铁齿铜牙纪晓岚,http://m.wuzhij.com/huya.php?id=11342396&cdn=hwcdn
-铁齿铜牙纪晓岚,http://159.75.85.63:35455/huya/11342396?cdn=txcdn
-铁齿铜牙纪晓岚,http://159.75.85.63:35455/huya/11342396?cdn=hscdn
-铁齿铜牙纪晓岚,http://159.75.85.63:35455/huya/11342396?cdn=hwcdn
-铁齿铜牙纪晓岚, http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354143978
-铁齿铜牙纪晓岚,http://mmitv.top/pltv/huya.php?id=11342396
-
 电影,#genre#
-淘电影,http://114.252.239.133:9876/udp/239.3.1.250:8001
-淘电影,http://111.196.129.152:20000/udp/239.3.1.250:8001
-淘电影,http://221.219.79.161:4000/udp/239.3.1.250:8001
-淘电影,http://111.196.135.75:8686/udp/239.3.1.250:8001
-淘电影,http://123.122.162.7:19999/udp/239.3.1.250:8001
 周星驰,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
 周星驰,https://live.metshop.top/huya/11342412
 周星驰,http://1.94.31.214:35455/huya/11342412
-成龙,http://1.94.31.214:35455/huya/11342386
-王晶,http://1.94.31.214:35455/huya/11602058
-沈腾,http://1.94.31.214:35455/huya/11601968
-黄渤,http://1.94.31.214:35455/huya/11352876
-金鹰卡通,http://nas.hssvm.com:8888/udp/225.1.2.236:5002
-重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
+//电影
+成龙,http://zby.xjqxz.top/cldy/live.m3u8
+周星驰,http://zby.xjqxz.top/live12/live.m3u8
+李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
+//斗鱼电影
+斗鱼-【神乐】华语经典电影,http://epg.112114.eu.org/douyu/85894
+斗鱼-【神乐】星爷电影 喜剧经典,http://epg.112114.eu.org/douyu/122402
+斗鱼-【欧美】电影,http://epg.112114.eu.org/douyu/20415
+斗鱼-【漫威】主线最佳观影顺序,http://epg.112114.eu.org/douyu/6140589
+斗鱼-【漫威】宇宙主线,http://epg.112114.eu.org/douyu/11673725
+斗鱼-【科幻】电影,http://epg.112114.eu.org/douyu/12010522
+斗鱼-特辑电影院,http://epg.112114.eu.org/douyu/3637778
+斗鱼-蓉城电影院,http://epg.112114.eu.org/douyu/11137425
+斗鱼-欧美大片,http://epg.112114.eu.org/douyu/2793084
+斗鱼-【蓝翔】华语经典电影,http://epg.112114.eu.org/douyu/276200
+斗鱼-【霍格沃茨】,http://epg.112114.eu.org/douyu/8814650
+斗鱼-【豆瓣高分】史上最佳影片大放送,http://epg.112114.eu.org/douyu/8770422
+斗鱼-【奇光】港鬼片,http://epg.112114.eu.org/douyu/8009547
 
+//影视剧
+斗鱼-【小宇】经典影视剧,http://epg.112114.eu.org/douyu/54945
+斗鱼-经典剧作,http://epg.112114.eu.org/douyu/11922242
+斗鱼-电视剧电影,http://epg.112114.eu.org/douyu/9838414
+//电视剧·网剧
+斗鱼-万合天宜,http://epg.112114.eu.org/douyu/9220456
+斗鱼-万合鲜肉老师,http://epg.112114.eu.org/douyu/9815091
+斗鱼-地下交通站,http://epg.112114.eu.org/douyu/1874054
+斗鱼-炊事班的故事,http://epg.112114.eu.org/douyu/8387899
+斗鱼-我和僵尸有个约会,http://epg.112114.eu.org/douyu/9470198
+斗鱼-封神榜 陈浩民,http://epg.112114.eu.org/douyu/12056846
+斗鱼-洗冤录,http://epg.112114.eu.org/douyu/11606410
+斗鱼-大宋提刑官,http://epg.112114.eu.org/douyu/11678039
+斗鱼-金庸武侠、古装神剧,http://epg.112114.eu.org/douyu/338759
+
+//动漫
+斗鱼-名侦探柯南,http://epg.112114.eu.org/douyu/11954507
+斗鱼-【动漫】超燃怀旧经典,http://epg.112114.eu.org/douyu/1174353
+斗鱼-海绵宝宝1 陈浩,http://epg.112114.eu.org/douyu/1569773
+斗鱼-海绵宝宝2 陈浩,http://epg.112114.eu.org/douyu/7528160
+斗鱼-海绵宝宝3 陈浩,http://epg.112114.eu.org/douyu/11922297
+斗鱼-海绵宝宝4 陈浩,http://epg.112114.eu.org/douyu/11595245
+斗鱼-犬夜叉 国语,http://epg.112114.eu.org/douyu/11906591
+斗鱼-【动漫】皮克斯、Conan,http://epg.112114.eu.org/douyu/7620081
+
+//斗鱼喜剧
+斗鱼-经典小品相声,http://epg.112114.eu.org/douyu/9273031
+斗鱼-陈佩斯喜剧放映,http://epg.112114.eu.org/douyu/9286868
+斗鱼-赵本山经典小品,http://epg.112114.eu.org/douyu/9817716
+斗鱼-辽视欢乐大集锦,http://epg.112114.eu.org/douyu/9403712
+斗鱼-搞笑天堂岛,http://epg.112114.eu.org/douyu/6916081
+//斗鱼影视解说
+斗鱼-小片片说大片,http://epg.112114.eu.org/douyu/4258555
+斗鱼-牛叔说电影,http://epg.112114.eu.org/douyu/2758565
+斗鱼-虫哥说电影,http://epg.112114.eu.org/douyu/8915074
+斗鱼-楠者电影,http://epg.112114.eu.org/douyu/9485398
+斗鱼-1900影剧室,http://epg.112114.eu.org/douyu/7796193
+斗鱼-叶尘说电影,http://epg.112114.eu.org/douyu/9252442
+斗鱼-口音贼重的动漫解说,http://epg.112114.eu.org/douyu/9734098
+
+儿童频道,#genre#
+黑莓动画,http://[2409:8087:74d9:21::6]:80/270000001128/9900000096/index.m3u8
+黑莓动画,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010002/main.m3u8
+黑莓动画,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
+黑莓动画,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/index.m3u8
+优漫卡通,http://[2409:8087:74d9:21::6]:80/270000001128/9900000070/index.m3u8
+卡酷少儿,http://[2409:8087:5e08:24::11]:6610/000000001000/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
+嘉佳卡通,http://[2409:8087:74d9:21::6]:80/270000001128/9900000061/index.m3u8
+嘉佳卡通,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010102/1.m3u8
+嘉佳卡通,http://[2409:8087:74d9:21::4]:80/270000001128/index.m3u8?cmcc_cid=9900000061
+金鹰卡通,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002240/index.m3u8
+金鹰卡通,http://[2409:8087:74d9:21::6]:80/270000001128/9900000039/index.m3u8
+金鹰卡通,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010107/1.m3u8
+金鹰卡通,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
+金鹰卡通,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=YanG-1989
+哈哈炫动,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=YanG-1989
+哈哈炫动,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
+卡酷动画,http://[2409:8087:74d9:21::6]:80/270000001128/9900000040/index.m3u8
+NewTV黑莓动画,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000021734/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
+tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHOTihot11pnggrouptitle动画频道爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
+爱动漫,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
+爱动漫,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+甘肃少儿,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002165/index.m3u8
